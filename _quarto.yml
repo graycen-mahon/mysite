@@ -1,4 +1,5 @@
-project:
+---
+project: 
   type: website
   output-dir: docs
 
@@ -11,11 +12,12 @@ website:
         text: Home
       - about.qmd
       - article.qmd
+      - Travel.qmd
 format:
   html:
-    theme: united
-    css: styles.css
+    theme:
+      - mystyles.scss
+    mainfont: Space Mono
     toc: true
-
+    
 editor: visual
-

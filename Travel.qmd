@@ -1,0 +1,10 @@
+---
+title: "Traveling"
+author: "Graycen Mahon"
+image: travel.jpeg
+about:
+  template: jolla
+  image-shape: rectangle
+  image-width: 20em
+---
+
