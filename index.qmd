@@ -1,10 +1,11 @@
 ---
 title: "Graycen Mahon"
 image: headshot.jpeg
-about: template: trestles
-image-shape: round
+about: 
+  template: trestles
+  image-shape: round
   image-width: 23em
-links:
+  links:
     - text: GitHub
       href: https://github.com/graycen-mahon
     - text: Email
@@ -13,13 +14,7 @@ links:
 
 Hey Y'all! 
 
-I appreciate you stopping by my first ever website! Well, I guess my high school self would say *second* website. I remember making a wordpress site in the 10th grade because I thought I was the worlds next up and coming lifestyle blogger... But alas, I never went viral. So here is my newest website, and let's hope this one is less cringe and more informative. 
-
----
-
-About Me:
-
-I grew up in the Bay Area, CA about 15 minutes outside of San Francisco with my parents, two sisters and brother in a town called San Bruno. I have always enjoyed being outside, spending time by myself, cooking, swimming, and playing soccer. Since coming to college at UCSB, I have grown to enjoy spending time with friends, cooking even more, having the occassional beer at M special, and walking on the beach (cliche, I know...). I went vegan in 2019, and I am super passionate about aiding in the fight against climate change through regenerative agriculture and fighting food injustice through small scale farming and the return to indigenous practices. 
+I appreciate you stopping by my first ever website!
 
 ---
 

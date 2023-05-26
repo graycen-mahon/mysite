@@ -5,14 +5,15 @@ project:
 website:
   title: "Graycen Mahon"
   navbar:
+    background: primary
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - article.qmd
 format:
   html:
-    theme: sandstone
+    theme: united
     css: styles.css
     toc: true
 
