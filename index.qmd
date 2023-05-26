@@ -1,11 +1,31 @@
 ---
-title: "mysite"
+title: "Graycen Mahon"
+image: headshot.jpeg
+about: template: trestles
+image-shape: round
+  image-width: 23em
+links:
+    - text: GitHub
+      href: https://github.com/graycen-mahon
+    - text: Email
+      href: mailto:graycen.mahon@gmail.com
 ---
 
-This is a Quarto website.
+Hey Y'all! 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I appreciate you stopping by my first ever website! Well, I guess my high school self would say *second* website. I remember making a wordpress site in the 10th grade because I thought I was the worlds next up and coming lifestyle blogger... But alas, I never went viral. So here is my newest website, and let's hope this one is less cringe and more informative. 
 
-```{r}
-1 + 1
-```
+Education
+
+BA in Environmental Studies and Sociology from the University of California, Santa Barbara
+
+Experience
+
+Youth Gymnastics Coach (2016-2020)
+Gymntowne Gymnastics- South San Francisco, CA
+
+Hostess, Food Runner, Server, Bartender (2021-present)
+Scarlett Begonia- Santa Barbara, CA
+
+Gymnastics Camp Manager and Coordinator (December 2022)
+Gymntowne Gymnastics- South San Francisco, CA
