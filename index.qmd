@@ -8,6 +8,8 @@ about:
   links:
     - text: GitHub
       href: https://github.com/graycen-mahon
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/graycen-mahon/ 
     - text: Email
       href: mailto:graycen.mahon@gmail.com
 ---
