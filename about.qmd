@@ -7,18 +7,17 @@ about:
   image-width: 15em
 ---
 
-
-Winter Camp Manager - Gymtowne Gymnastics South San Francisco, CA
-December 2022
-Description:
-
 <body>
-  <h3>Winter Camp Manager (December 2022) - Gymtowne Gymnastics South San Francisco, CA</h3>
+  <h3>Winter Camp Manager (December 2022)</h3>
+  Gymtowne Gymnastics South San Francisco, CA
     <ul>
       <li>Oversaw the safety of children ages 4-13 in gymnastics activities</li>
       <li>Ensured allergies, dietary restrictions, and personal medications were known for 20+ children, and supervised the
 administration of personal medications when necessary</li>
-      <li>Cereal</li>
-      <li>Fruit</li>
+      <li>Managed a staff of 25 employees and made weekly schedules</li>
+      <li>Created daily lesson plans for students satisfying a wide margin of ages and skill level</li>
+      <li>Facilitated conflict management and fostered a supportive, welcoming and fun environment for both the staff and 30+
+participants over the 2 week period</li>
+      <li>Solved scheduling issues and encouraged all 25 staffers to work hard and do their best</li>
     </ul>
 </body>
