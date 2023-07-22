@@ -1,7 +1,6 @@
 ---
 title: "Community Involvement"
 author: "Graycen Mahon"
-image: ukranian.jpeg
 about:
   template: trestles
   image-shape: round

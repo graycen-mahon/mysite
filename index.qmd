@@ -1,6 +1,5 @@
 ---
 title: "Graycen Mahon"
-image: headshot.jpeg
 about: 
   template: trestles
   image-shape: round

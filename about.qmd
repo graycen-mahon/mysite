@@ -1,6 +1,5 @@
 ---
 title: "Experience"
-image: aboutmeimage.jpeg
 about: 
   template: trestles
   image-shape: rectangle
@@ -21,3 +20,4 @@ participants over the 2 week period</li>
       <li>Solved scheduling issues and encouraged all 25 staffers to work hard and do their best</li>
     </ul>
 </body>
+
