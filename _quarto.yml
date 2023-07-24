@@ -10,7 +10,7 @@ website:
       - href: HomePage.qmd
         text: Home
       - href: WorkExperience.qmd
-        text: Work Experience
+        text: Experience
       - href: Writing.qmd
         text: Writing Samples
       
