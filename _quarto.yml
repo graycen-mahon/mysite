@@ -11,8 +11,6 @@ website:
         text: Home
       - href: WorkExperience.qmd
         text: Work Experience
-      - href: CommunityInvolvement.qmd
-        text: Community Involvement
       - href: Writing.qmd
         text: Writing Samples
       - href: AboutMe.qmd
