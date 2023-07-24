@@ -1,12 +1,11 @@
 ---
 project: 
   type: website
-  output-dir: docs
+  output-dir: docs/WorkExperience.html
 
 website:
   title: "Graycen Mahon"
   navbar:
-    background: secondary
     left:
       - href: HomePage.qmd
         text: Home
