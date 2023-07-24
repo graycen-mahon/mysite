@@ -12,7 +12,7 @@ website:
         text: Home
       - WorkExperience.qmd
       - CommunityInvolvement.qmd
-      - WritingSamples.qmd
+      - Writing.qmd
       - AboutMe.qmd
 format:
   html:
