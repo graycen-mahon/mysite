@@ -13,6 +13,7 @@ website:
       - about.qmd
       - article.qmd
       - Travel.qmd
+      - Writing.qmd
 format:
   html:
     theme:
