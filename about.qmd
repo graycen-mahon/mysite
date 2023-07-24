@@ -3,7 +3,7 @@ title: "Work Experience"
 ---
 
 <body>
-  <h3>Winter Camp Manager (December 2022)</h3>
+  <h3>Camp Manager (December 2022)</h3>
   Gymtowne Gymnastics South San Francisco, CA
     <ul>
       <li>Oversaw the safety of children ages 4-13 in gymnastics activities</li>
@@ -32,19 +32,18 @@ participants over the 2 week period</li>
     </ul>
 </body>
 
----------
+-------
 
 <body>
-  <h3>Lead Teacher (January 2022 - June 2022)</h3>
-  SproutUp, Goleta, CA
+  <h3>Hospitality and Customer Service (April 2021-June 2023)</h3>
+ Scarlett Begonia, Santa Barbara, CA
     <ul>
-      <li>Visited a local elementary school classroom weekly for the duration of the volunteer experience</li>
-      <li>Invited to be a lead teacher and led a teaching team of 5 other UCSB students</li>
-      <li>Spearheaded weekly lesson plans for 2-3rd graders on the local environment and sustainability</li>
-      <li>Gathered and organized the various materials needed weekly to successfully teach the students</li>
-      <li>Facilitated weekly communication with staff members of the school to address potential challenges and scheduling</li>
-      <li>Oversaw conflicts and endorsed a safe and welcoming learning environment over the 18 weeks
-</li>
+      <li>Trained incoming employees and called on first for promotions by the manager and restaurant owner</li>
+      <li>Promoted to Head Hostess within 3 months and supervised a staff of 6 individuals; retained a positive and efficient work environment</li>
+      <li>Managed high volumes of customers, food orders, and phone calls; averaging about 200-450 individuals per day</li>
+      <li>Led inventory control and maintained a well stocked service station and bar area to meets the needs of the 30+ active tables</li>
+      <li>Acted as a liaison between the 7 member Spanish speaking kitchen staff and the 3-5 servers to ensure any allergies/dietary restrictions were known and accounted for; became proficient enough in Spanish to guarantee success</li>
+      </li>Upheld a pleasant environment for customers by cultivating a positive attitude, successfully navigating a high stress work setting, multitasking, and improving the productivity of a 30+ member staff</li>
     </ul>
 </body>
 
@@ -60,21 +59,6 @@ participants over the 2 week period</li>
       <li>Supervised the safety of each student, while still encouraging a fun environment for students to learn on a weekly basis</li>
       <li>Spearheaded birthday parties on the weekend and built an exciting atmosphere for children and adults, while also sustaining the safety and organization of the group of 30+ individuals</li>
       <li>Communicated weekly with the parents of all 6 students for each class and successfully relayed important developmental and behavioral information</li>
-    </ul>
-</body>
-
----------
-
-<body>
-  <h3>Restaurant Worker (April 2021-June2023)</h3>
- Scarlett Begonia, Santa Barbara, CA
-    <ul>
-      <li>Trained incoming employees and called on first for promotions by the manager and restaurant owner</li>
-      <li>Promoted to Head Hostess within 3 months and supervised a staff of 6 individuals; retained a positive and efficient work environment</li>
-      <li>Managed high volumes of customers, food orders, and phone calls; averaging about 200-450 individuals per day</li>
-      <li>Led inventory control and maintained a well stocked service station and bar area to meets the needs of the 30+ active tables</li>
-      <li>Acted as a liaison between the 7 member Spanish speaking kitchen staff and the 3-5 servers to ensure any allergies/dietary restrictions were known and accounted for; became proficient enough in Spanish to guarantee success</li>
-      </li>Upheld a pleasant environment for customers by cultivating a positive attitude, successfully navigating a high stress work setting, multitasking, and improving the productivity of a 30+ member staff</li>
     </ul>
 </body>
 
