@@ -6,7 +6,7 @@ project:
 website:
   title: "Graycen Mahon"
   navbar:
-    background: primary
+    background: secondary
     left:
       - href: HomePage.qmd
         text: Home
@@ -20,7 +20,7 @@ website:
         text: About Me
       
 format:
-  html: WorkExperience.qmd
+  html:
     theme:
       - mystyles.scss
     mainfont: Serif
