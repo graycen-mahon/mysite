@@ -5,8 +5,6 @@ about:
   image-shape: round
   image-width: 23em
   links:
-    - text: GitHub
-      href: https://github.com/graycen-mahon
     - text: LinkedIn
       href: https://www.linkedin.com/in/graycen-mahon/ 
     - text: Email
