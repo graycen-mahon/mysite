@@ -10,10 +10,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - article.qmd
-      - Travel.qmd
-      - Writing.qmd
+      - WorkExperience.qmd
+      - CommunityInvolvement.qmd
+      - WritingSamples.qmd
+      - AboutMe.qmd
 format:
   html:
     theme:
