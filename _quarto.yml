@@ -1,10 +1,12 @@
 ---
 project: 
   type: website
-  output-dir: ~/Downloads/GitHub/mysite/WorkExperience.qmd
+  output-dir: docs
 
 website:
   title: "Graycen Mahon"
+  - href: HomePage.qmd
+    text: Graycen Mahon
   navbar:
     background: primary
     left:
