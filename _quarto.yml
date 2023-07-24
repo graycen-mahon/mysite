@@ -1,7 +1,7 @@
 ---
 project: 
   type: website
-  output-dir: docs/WorkExperience.html
+  output-dir: docs
 
 website:
   title: "Graycen Mahon"
