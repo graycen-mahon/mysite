@@ -13,8 +13,6 @@ website:
         text: Work Experience
       - href: Writing.qmd
         text: Writing Samples
-      - href: AboutMe.qmd
-        text: About Me
       
 format:
   html:
