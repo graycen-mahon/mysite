@@ -11,10 +11,10 @@ about:
       href: mailto:graycen.mahon@gmail.com
 ---
 
-Hi! Thanks for stopping by my website, created by yours truly using R Studio- a programming language for statistical computing, graphics and website construction. My name is Graycen Mahon and I am originally from the Bay Area. I recently graduated from the University of California, Santa Barbara in 2023, with a Bachelor of Arts in both Environmental Studies and Sociology. 
+Hi! Thanks for stopping by my website, created by yours truly using R Studio- a programming language for statistical computing, graphics and website construction. My name is Graycen Mahon and I am originally from the Bay Area. I recently graduated from the University of California, Santa Barbara in 2023, with a Bachelor of Arts in both Environmental Studies and Sociology.
 
 ------------------------------------------------------------------------
 
-Please explore my page to review my work experiences, community involvement, writing samples and person interests! I am happy to have you here. 
+Please explore my page to review my work experiences, community involvement, writing samples and person interests! I am happy to have you here.
 
 ------------------------------------------------------------------------

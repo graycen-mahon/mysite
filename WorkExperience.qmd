@@ -3,96 +3,167 @@ title: "Work Experience"
 ---
 
 <body>
-  <h3>Camp Manager (December 2022)</h3>
-  Gymtowne Gymnastics South San Francisco, CA
-    <ul>
-      <li>Managed a staff of 25 employees and made weekly schedules</li>
-      <li>Created daily lesson plans for students satisfying a wide margin of ages and skill level</li>
-      <li>Oversaw the safety of children ages 4-13 in gymnastics activities</li>
-      <li>Ensured allergies, dietary restrictions, and medications were known for 20+ children, and supervised the administration of personal medications when necessary</li>
-      <li>Facilitated conflict management and fostered a supportive, welcoming and fun environment for both the staff and participants over the 2 week period</li>
-      <li>Solved scheduling issues and supported the staff</li>
-    </ul>
+
+<h3>Camp Manager (December 2022)</h3>
+
+Gymtowne Gymnastics South San Francisco, CA
+
+<ul>
+
+<li>Managed a staff of 25 employees and made weekly schedules</li>
+
+<li>Created daily lesson plans for students satisfying a wide margin of ages and skill level</li>
+
+<li>Oversaw the safety of children ages 4-13 in gymnastics activities</li>
+
+<li>Ensured allergies, dietary restrictions, and medications were known for 20+ children, and supervised the administration of personal medications when necessary</li>
+
+<li>Facilitated conflict management and fostered a supportive, welcoming and fun environment for both the staff and participants over the 2 week period</li>
+
+<li>Solved scheduling issues and supported the staff</li>
+
+</ul>
+
 </body>
 
---------
+------------------------------------------------------------------------
 
 <body>
-  <h3>Lead Teacher (January 2022 - June 2022)</h3>
-  SproutUp, Goleta, CA
-    <ul>
-      <li>Spearheaded weekly lesson plans for 2nd-3rd graders on the local environment and sustainability</li>
-      <li>Invited to be a lead teacher and led a teaching team of 5 other UCSB students</li>
-      <li>Responsible for gathering and organizing the various materials needed weekly to teach the students</li>
-      <li>Facilitated weekly communication with staff members of the school to address potential challenges and scheduling</li>
-      <li>Successfully taught at a local elementary school classroom weekly for 18 weeks</li>
-      <li>Oversaw conflicts and endorsed a safe and welcoming learning environment over the 18 weeks
-</li>
-    </ul>
+
+<h3>Lead Teacher (January 2022 - June 2022)</h3>
+
+SproutUp, Goleta, CA
+
+<ul>
+
+<li>Spearheaded weekly lesson plans for 2nd-3rd graders on the local environment and sustainability</li>
+
+<li>Invited to be a lead teacher and led a teaching team of 5 other UCSB students</li>
+
+<li>Responsible for gathering and organizing the various materials needed weekly to teach the students</li>
+
+<li>Facilitated weekly communication with staff members of the school to address potential challenges and scheduling</li>
+
+<li>Successfully taught at a local elementary school classroom weekly for 18 weeks</li>
+
+<li>Oversaw conflicts and endorsed a safe and welcoming learning environment over the 18 weeks</li>
+
+</ul>
+
 </body>
 
--------
+------------------------------------------------------------------------
 
 <body>
-  <h3>Hospitality/Customer Service (April 2021-June 2023)</h3>
- Scarlett Begonia, Santa Barbara, CA
-    <ul>
-      <li>Trained incoming employees and called on first for promotions by the manager and restaurant owner</li>
-      <li>Promoted to Head Hostess within 3 months and supervised a staff of 6 individuals; retained a positive and efficient work environment</li>
-      <li>Managed high volumes of customers, food orders, and phone calls; averaging about 200-450 individuals per day</li>
-      <li>Responsible for inventory control, and maintained a well stocked service station and bar area to meets the needs of the 30+ active tables</li>
-      <li>Acted as a liaison between the 7 member Spanish speaking kitchen staff and the 3-5 servers to ensure any allergies/dietary restrictions were known and accounted for; became proficient enough in Spanish to guarantee success</li>
-      <li>Upheld a pleasant environment for customers by cultivating a positive attitude, successfully navigating a high stress work setting, multitasking, and improving the productivity of a 30+ member staff</li>
-    </ul>
+
+<h3>Hospitality/Customer Service (April 2021-June 2023)</h3>
+
+Scarlett Begonia, Santa Barbara, CA
+
+<ul>
+
+<li>Trained incoming employees and called on first for promotions by the manager and restaurant owner</li>
+
+<li>Promoted to Head Hostess within 3 months and supervised a staff of 6 individuals; retained a positive and efficient work environment</li>
+
+<li>Managed high volumes of customers, food orders, and phone calls; averaging about 200-450 individuals per day</li>
+
+<li>Responsible for inventory control, and maintained a well stocked service station and bar area to meets the needs of the 30+ active tables</li>
+
+<li>Acted as a liaison between the 7 member Spanish speaking kitchen staff and the 3-5 servers to ensure any allergies/dietary restrictions were known and accounted for; became proficient enough in Spanish to guarantee success</li>
+
+<li>Upheld a pleasant environment for customers by cultivating a positive attitude, successfully navigating a high stress work setting, multitasking, and improving the productivity of a 30+ member staff</li>
+
+</ul>
+
 </body>
 
--------
+------------------------------------------------------------------------
 
 <body>
-  <h3>Youth Gymnastics Coach (November 2016-July 2020)</h3>
-  Gymtowne Gymnastics, SSF, CA
-    <ul>
-      <li>Led weekly classes of 5-6 children ranging from 2-13 years old</li>
-      <li>Fostered the development of 5 important skills within students; listening, cooperation, communication, respecting boundaries, and improving motor function</li>
-      <li>Coached many children with different physical, mental, and language abilities, successfully meeting their individual needs and maintaining a streamline class setting</li>
-      <li>Supervised the safety of each student, while still encouraging a fun environment for students to learn on a weekly basis</li>
-      <li>Spearheaded birthday parties on the weekend and built an exciting atmosphere for children and adults, while also sustaining the safety and organization of the group of 30+ individuals</li>
-      <li>Communicated weekly with the parents of all 6 students for each class and successfully relayed important developmental and behavioral information</li>
-    </ul>
+
+<h3>Youth Gymnastics Coach (November 2016-July 2020)</h3>
+
+Gymtowne Gymnastics, SSF, CA
+
+<ul>
+
+<li>Led weekly classes of 5-6 children ranging from 2-13 years old</li>
+
+<li>Fostered the development of 5 important skills within students; listening, cooperation, communication, respecting boundaries, and improving motor function</li>
+
+<li>Coached many children with different physical, mental, and language abilities, successfully meeting their individual needs and maintaining a streamline class setting</li>
+
+<li>Supervised the safety of each student, while still encouraging a fun environment for students to learn on a weekly basis</li>
+
+<li>Spearheaded birthday parties on the weekend and built an exciting atmosphere for children and adults, while also sustaining the safety and organization of the group of 30+ individuals</li>
+
+<li>Communicated weekly with the parents of all 6 students for each class and successfully relayed important developmental and behavioral information</li>
+
+</ul>
+
 </body>
 
--------
+------------------------------------------------------------------------
 
 <body>
-  <h3>Volunteer Researcher (September 2020-March 2021)</h3>
- Reform Revolution Project (RRP), Remote, Founded in Sacramento, CA
-    <ul>
-      <li>Researched and created informational instagram content about the history of Black oppression within specific topics including; environmental racism, voting rights, and social justice</li>
-      <li>Collaborated with 10 other team members of different racial, cultural and gender identities while navigating race topics with mindfulness and awareness</li>
-      <li>Expanded skills such as; cooperation, communication, listening, learning, and writing and applied them successfully to tasks as a volunteer</li>
-      <li>Furthered my own knowledge of the current presence and history of racism within the United States</li>
-    </ul>
+
+<h3>Volunteer Researcher (September 2020-March 2021)</h3>
+
+Reform Revolution Project (RRP), Remote, Founded in Sacramento, CA
+
+<ul>
+
+<li>Researched and created informational instagram content about the history of Black oppression within specific topics including; environmental racism, voting rights, and social justice</li>
+
+<li>Collaborated with 10 other team members of different racial, cultural and gender identities while navigating race topics with mindfulness and awareness</li>
+
+<li>Expanded skills such as; cooperation, communication, listening, learning, and writing and applied them successfully to tasks as a volunteer</li>
+
+<li>Furthered my own knowledge of the current presence and history of racism within the United States</li>
+
+</ul>
+
 </body>
 
------------
+------------------------------------------------------------------------
 
 Workplace Skills
-    <ul>
-      <li>Dependability</li>
-      <li>Multitasking</li>
-      <li>Team building</li>
-      <li>Problem-solving</li>
-      <li>Stress management</li>
-      <li>Analytical thinking</li>
-      <li>Communication</li>
-      </ul>
+
+<ul>
+
+<li>Dependability</li>
+
+<li>Multitasking</li>
+
+<li>Team building</li>
+
+<li>Problem-solving</li>
+
+<li>Stress management</li>
+
+<li>Analytical thinking</li>
+
+<li>Communication</li>
+
+</ul>
+
 </body>
 
-----------
+------------------------------------------------------------------------
 
 Technological Skills
-    <ul>
-      <li>R Studio (programming language for statistical computing and graphics) Entry Level</li>
-      <li>Microsoft Suite</li>
-      <li>Google Workspace</ul>
+
+<ul>
+
+<li>R Studio (programming language for statistical computing and graphics) Entry Level</li>
+
+<li>Microsoft Suite</li>
+
+<li>
+
+Google Workspace
+
+</ul>
+
 </body>
