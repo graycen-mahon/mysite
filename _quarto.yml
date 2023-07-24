@@ -1,7 +1,7 @@
 ---
 project: 
   type: website
-  output-dir: qmd
+  output-dir: docs
 
 website:
   title: "Graycen Mahon"
