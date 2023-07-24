@@ -1,5 +1,7 @@
 ---
 title: "Work Experience"
+  href: WorkExperience.qmd
+  text: Graycen Mahon
 ---
 
 <body>
