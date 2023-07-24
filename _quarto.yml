@@ -18,8 +18,6 @@ website:
         text: Writing Samples
       - href: AboutMe.qmd
         text: About Me
-      - href: test.qmd
-        text: test
       
 format:
   html:
