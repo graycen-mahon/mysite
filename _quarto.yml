@@ -20,7 +20,7 @@ website:
         text: About Me
       
 format:
-  html: WorkExperience.html
+  html: WorkExperience.qmd
     theme:
       - mystyles.scss
     mainfont: Serif
