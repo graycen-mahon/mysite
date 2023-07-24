@@ -4,9 +4,6 @@ project:
   output-dir: docs
 
 website:
-  title: "Graycen Mahon"
-  - href: HomePage.qmd
-    text: Graycen Mahon
   navbar:
     background: primary
     left:
