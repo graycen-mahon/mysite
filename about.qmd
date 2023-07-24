@@ -1,9 +1,5 @@
 ---
 title: "Work Experience"
-about: 
-  template: trestles
-  image-shape: rectangle
-  image-width: 15em
 ---
 
 <body>
