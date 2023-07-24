@@ -10,9 +10,14 @@ website:
     left:
       - href: HomePage.qmd
         text: Home
-      - WorkExperience.qmd
-      - Writing.qmd
-      - AboutMe.qmd
+      - href: WorkExperience.qmd
+        text: Work Experience
+      - href: CommunityInvolvement.qmd
+        text: Community Involvement
+      - href: Writing.qmd
+        text: Writing Samples
+      - href: AboutMe.qmd
+        text: About Me
 format:
   html:
     theme:
