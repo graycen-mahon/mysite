@@ -20,12 +20,3 @@ Please explore my page to review my work experiences and writing samples! I am h
 I have a deep passion for working towards environmental justice, social equity and global health, which I believe can be achieved through small scale regenerative agriculture, a return to indigenous stewardship, promoting food sovereignty and the continued elevation of voices that are typically ignored and oppressed. My goal in life is to always remain a learner, constantly humbled by new knowledge and the unique experiences of others. 
 
 ------------------------------------------------------------------------
-
-Personal Interests
-<li>Sustainability</li>
-<li>Vegan Cooking</li>
-<li>Yoga</li>
-<li>Spending time outdoors</li>
-<li>Reading</li>
-</ul>
-</body>
