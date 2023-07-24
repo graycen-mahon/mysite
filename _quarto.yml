@@ -8,7 +8,7 @@ website:
   navbar:
     background: primary
     left:
-      - href: index.qmd
+      - href: HomePage.qmd
         text: Home
       - WorkExperience.qmd
       - CommunityInvolvement.qmd
