@@ -1,7 +1,7 @@
 ---
 project: 
   type: website
-  output-dir: docs
+  output-dir: ~/Downloads/GitHub/mysite/WorkExperience.qmd
 
 website:
   title: "Graycen Mahon"
@@ -9,7 +9,7 @@ website:
     background: primary
     left:
       - href: HomePage.qmd
-        text: Graycen Mahon
+        text: Home
       - href: WorkExperience.qmd
         text: Work Experience
       - href: CommunityInvolvement.qmd
