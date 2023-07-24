@@ -18,6 +18,7 @@ website:
         text: Writing Samples
       - href: AboutMe.qmd
         text: About Me
+      
 format:
   html:
     theme:
