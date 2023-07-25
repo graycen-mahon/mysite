@@ -1,6 +1,10 @@
 ---
-title: "Work Experience"
+title: "Experience"
 ---
+
+Graycen Mahon
+email: graycen.mahon@gmail.com
+Environmental Studies and Sociology B.A.
 
 <body>
 
