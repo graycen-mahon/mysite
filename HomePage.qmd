@@ -1,9 +1,7 @@
 ---
 title: "Graycen Mahon"
 about: 
-  template: trestles
-  image-shape: round
-  image-width: 23em
+  template: jolla
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/graycen-mahon/ 
