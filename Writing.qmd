@@ -1,10 +1,26 @@
 ---
 title: "Writing Samples"
+about:
+  links:
+    - text: WIG
+      href: https://www.withitgirls.com/post/conscious-leather-pt-1-bolt-threads-mushrooms
+    - text: ER - RRP
+      href: https://reformrevolutionpr.wixsite.com/reformrevolutionproj/post/environmental-racism-pt-4-examples-of-current-crises 
+    - text: PR - RRP
+      href: https://reformrevolutionpr.wixsite.com/reformrevolutionproj/post/prison-and-justice-system-part-6-covid-19-prisoner-releases 
 ---
 Explore each of the links to view some samples of my writing.
 
 ------------------------------------------------------------------------
 
-WithItGirl
+WithItGirls - https://www.withitgirls.com/home 
 
-WithItGirl is a female founded and run online magazine devoted to uplifting womxn involved in pop culture and business. They mainly focus on womxn who participate in surf, skate, music, and artistic endeavors. WithItGirl has overarching themes of sustainability and environmental justice.
+WithItGirl is a female founded and run online magazine devoted to uplifting womxn involved in pop culture and business. They mainly focus on womxn who participate in surf, skate, music, and artistic endeavors. WithItGirl has overarching themes of sustainability and environmental justice. To view the article about sustainable leather development, please select the "WIG" link on the top of the page.  
+
+-----------------------
+
+Reform Revolution Project (RRP) -  https://reformrevolutionpr.wixsite.com/reformrevolutionproj
+
+RRP was founded in Sacramento, CA in the midst of the pandemic, spurred by the murder of George Floyd and subsequent media revival of the Black Lives Matter movement. RRP was created with the intention of providing accessible education on topics such as social justice and white supremacy. They worked to build resources and tools to help folks self-educate and learn to be actively anti-racist. They deeply promote the idea of remaining a lifelong learner. To view the articles on Environmental Racism (ER) and Prison Releases during COVID (PR) please click the respective links above. 
+
+------------------------
